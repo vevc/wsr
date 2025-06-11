@@ -21,7 +21,7 @@
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/vevc/web-shell-runner.git
+git clone https://github.com/vevc/wsr.git
 cd web-shell-runner
 ```
 
