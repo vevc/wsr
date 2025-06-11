@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/vevc/wsr.git
-cd web-shell-runner
+cd wsr
 ```
 
 ### 2. Install Node.js dependencies
